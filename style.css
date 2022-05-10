@@ -17,5 +17,30 @@
     cursor: pointer;
 }
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+}
+.cat1{
+    background: linear-gradient(to right, yellow, orange);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+}
+.cat2{
+    background-image: linear-gradient(to right, tomato, hotpink);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+}
+.cat3{
+    background-image: linear-gradient(to right, lightblue, blue);
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
 }
