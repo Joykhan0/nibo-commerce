@@ -37,6 +37,7 @@
     color: #fff;
     border-radius: 8px;
 }
+
 .categories img{
     width: 100px;
 }
@@ -57,4 +58,28 @@
 }
 footer{
     text-align: center;
+}
+.cat1{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+.cat1:hover{
+    transform: scale(1.1);
+}
+.cat2{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+.cat2:hover{
+    transform: scale(1.1);
+}
+.cat3{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    transition: transform 1s;
+}
+.cat3:hover{
+    transform: scale(1.1);
 }
